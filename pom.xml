@@ -26,7 +26,7 @@
 			<groupId>xml-apis</groupId>
 			<artifactId>xml-apis</artifactId>
 			<version>1.4.01</version>
-<!--			<scope>compile</scope>-->
+			<scope>compile</scope>
 		</dependency>
 
 		<dependency>
